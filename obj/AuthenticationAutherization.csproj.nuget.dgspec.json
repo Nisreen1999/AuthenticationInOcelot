@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nisreen.wardeh\\source\\repos\\AuthenticationAutherization\\AuthenticationAutherization.csproj": {}
+    "C:\\Users\\nisreen.wardeh\\source\\repos\\AuthOcelot\\AuthenticationAutherization\\AuthenticationAutherization.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nisreen.wardeh\\source\\repos\\AuthenticationAutherization\\AuthenticationAutherization.csproj": {
+    "C:\\Users\\nisreen.wardeh\\source\\repos\\AuthOcelot\\AuthenticationAutherization\\AuthenticationAutherization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nisreen.wardeh\\source\\repos\\AuthenticationAutherization\\AuthenticationAutherization.csproj",
+        "projectUniqueName": "C:\\Users\\nisreen.wardeh\\source\\repos\\AuthOcelot\\AuthenticationAutherization\\AuthenticationAutherization.csproj",
         "projectName": "AuthenticationAutherization",
-        "projectPath": "C:\\Users\\nisreen.wardeh\\source\\repos\\AuthenticationAutherization\\AuthenticationAutherization.csproj",
+        "projectPath": "C:\\Users\\nisreen.wardeh\\source\\repos\\AuthOcelot\\AuthenticationAutherization\\AuthenticationAutherization.csproj",
         "packagesPath": "C:\\Users\\nisreen.wardeh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nisreen.wardeh\\source\\repos\\AuthenticationAutherization\\obj\\",
+        "outputPath": "C:\\Users\\nisreen.wardeh\\source\\repos\\AuthOcelot\\AuthenticationAutherization\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nisreen.wardeh\\AppData\\Roaming\\NuGet\\NuGet.Config",

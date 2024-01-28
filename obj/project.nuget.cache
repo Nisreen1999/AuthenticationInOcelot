@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JSNgK852mZAJ7iqKdGWZCiRnkN1pv8Ty36hEHxdKd0L2rKxx3Rkix+TmGErRXlNqg9UXJdrXUfRRnV8IDmyjCw==",
+  "dgSpecHash": "xU3Aj2yvw04FBjIjSa+aOmYu4BXPJOgtzaykPfypl6fXMPfnza3cccair7BV+yEMPEmwvOOSOYoisHcO63jw7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nisreen.wardeh\\source\\repos\\AuthenticationAutherization\\AuthenticationAutherization.csproj",
+  "projectFilePath": "C:\\Users\\nisreen.wardeh\\source\\repos\\AuthOcelot\\AuthenticationAutherization\\AuthenticationAutherization.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nisreen.wardeh\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\nisreen.wardeh\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
