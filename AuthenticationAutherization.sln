@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthenticationAutherization", "AuthenticationAutherization.csproj", "{E66127FD-0474-41F2-B08D-8CD798904870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course", "..\Course\Course.csproj", "{D2B0B13F-6132-4E17-8100-467073D905A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student", "..\Student\Student.csproj", "{2DDC3893-FB80-4902-ACDE-DE59805C0209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcelotGateWay", "..\OcelotGateWay\OcelotGateWay.csproj", "{73998CC0-07A9-4CCC-B10D-AE31DCD04B75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E66127FD-0474-41F2-B08D-8CD798904870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66127FD-0474-41F2-B08D-8CD798904870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66127FD-0474-41F2-B08D-8CD798904870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66127FD-0474-41F2-B08D-8CD798904870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B0B13F-6132-4E17-8100-467073D905A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B0B13F-6132-4E17-8100-467073D905A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B0B13F-6132-4E17-8100-467073D905A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B0B13F-6132-4E17-8100-467073D905A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DDC3893-FB80-4902-ACDE-DE59805C0209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDC3893-FB80-4902-ACDE-DE59805C0209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDC3893-FB80-4902-ACDE-DE59805C0209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDC3893-FB80-4902-ACDE-DE59805C0209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73998CC0-07A9-4CCC-B10D-AE31DCD04B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73998CC0-07A9-4CCC-B10D-AE31DCD04B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73998CC0-07A9-4CCC-B10D-AE31DCD04B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73998CC0-07A9-4CCC-B10D-AE31DCD04B75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9255ED67-3E03-41E3-9882-07828836DD2B}
+	EndGlobalSection
+EndGlobal
